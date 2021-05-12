@@ -13,5 +13,7 @@
   "dependencies": {
     "@types/express": "^4.17.11",
     "express": "^4.17.1"
-  }
+  },
+  "repository": "git@github.com:GabrielZanin1997/routerTemplate.git",
+  "author": "GabrielZanin1997 <gabriel.zaninde@gmail.com>"
 }
