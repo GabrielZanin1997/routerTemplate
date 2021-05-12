@@ -6,7 +6,7 @@
     height="125"
     width="250"
     alt="logo"
-    src="https://raw.githubusercontent.com/LauraBeatris/react-router-testing-utils/master/.github/docs/images/logo.png"
+    src="https://www.joypixels.com/profiles/emoji/motorway"
   />
 </a>
 
