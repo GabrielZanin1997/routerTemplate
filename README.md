@@ -1,2 +1,2 @@
 
-basic structure in routes, with React
+Basic structure in routes, with react.
